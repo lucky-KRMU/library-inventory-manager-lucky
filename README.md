@@ -2,7 +2,7 @@
 
 **Course:** Programming for Problem Solving using Python
 **Assignment Title:** Object-Oriented Design and Robust Programming in a Library Management System
-**Author:** <Your Name Here>
+**Author:** Lucky Pawar
 **Submission Date:** 30th Nov, 2025
 
 ---
@@ -27,24 +27,24 @@ This is a lightweight, command-line-based application designed to manage a campu
 
 The repository must be structured as follows:
 
-.
-├── A -  3
-│   ├── README.md
-│   ├── catalog.json
-│   ├── cli
-│   │   └── main.py
-│   ├── library_manager
-│   │   ├── __init__.py
-│   │   ├── book.py
-│   │   └── inventory.py
-│   └── requirements.txt
+.\n
+├── A -  3\n
+│   ├── README.md\n
+│   ├── catalog.json\n
+│   ├── cli\n
+│   │   └── main.py\n
+│   ├── library_manager \n
+│   │   ├── __init__.py\n
+│   │   ├── book.py\n
+│   │   └── inventory.py\n
+│   └── requirements.txt\n
 
 
 ### 2. Execution
 
 1.  Navigate to the project's root directory in your terminal:
     ```bash
-    cd library-inventory-manager-<yourname>
+    cd library-inventory-manager-lucky
     ```
 2.  Run the main interface file:
     ```bash
@@ -75,4 +75,4 @@ Operational and error messages are recorded in two files in the root directory:
 
 This is an individual assignment. All code is original.
 
-<I have taken help of internet for some modules specific work, such as geek for geeks, w3school, python.org and GenAI.>
+I have taken help of internet for some modules specific work, such as geek for geeks, w3school, python.org and GenAI.

@@ -16,6 +16,3 @@ __all__ = [
     'Book', 
     'LibraryInventory',
 ]
-
-# You could optionally set up package-level logging here if needed, 
-# but per-module logging (as done in book.py and inventory.py) is often clearer.

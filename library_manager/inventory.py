@@ -3,10 +3,6 @@ import logging
 import sys
 from pathlib import Path 
 
-# Assuming the 'library_manager' package structure is set up, 
-# we import Book using relative import.
-# Note: This file will need a __init__.py in its parent directory 
-# (library_manager/) and book.py must exist in the same directory.
 try:
     from .book import Book
 except ImportError:
@@ -20,7 +16,7 @@ logger = logging.getLogger(__name__)
 # Set a lower level for the logger in this module
 logger.setLevel(logging.INFO)
 
-# Create a handler to output logs to console (INFO level)
+# Create a handler to output logs to console 
 console_handler = logging.StreamHandler()
 console_handler.setLevel(logging.INFO)
 # Define a professional formatter
