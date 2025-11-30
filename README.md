@@ -27,17 +27,17 @@ This is a lightweight, command-line-based application designed to manage a campu
 
 The repository must be structured as follows:
 
-.\n
-├── A -  3\n
-│   ├── README.md\n
-│   ├── catalog.json\n
-│   ├── cli\n
-│   │   └── main.py\n
-│   ├── library_manager \n
-│   │   ├── __init__.py\n
-│   │   ├── book.py\n
-│   │   └── inventory.py\n
-│   └── requirements.txt\n
+.
+├── A -  3
+│   ├── README.md
+│   ├── catalog.json
+│   ├── cli
+│   │   └── main.py
+│   ├── library_manager 
+│   │   ├── __init__.py
+│   │   ├── book.py
+│   │   └── inventory.py
+│   └── requirements.txt
 
 
 ### 2. Execution
