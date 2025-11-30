@@ -1,0 +1,9 @@
+# requirements.txt
+# This file lists all external Python packages required to run the project.
+
+# Built-in modules used (no installation required, listed for completeness):
+# json
+# logging
+# pathlib
+# sys
+# os

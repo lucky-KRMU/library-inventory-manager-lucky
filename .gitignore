@@ -1,0 +1,8 @@
+# Python bytecode files
+*.pyc
+
+# The __pycache__ directory created by Python 3
+__pycache__/
+
+# Logs created by your assignment (Task 5)
+*.log
